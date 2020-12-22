@@ -1,0 +1,16 @@
+.header {
+  text-align: center;
+}
+
+.focused :global {
+  animation: 0.7s ease-out in-focus forwards;
+}
+
+@keyframes: global(in-focus) {
+  from {
+    background: #f57f17;
+  }
+  to {
+    background: #ddd;
+  }
+}
