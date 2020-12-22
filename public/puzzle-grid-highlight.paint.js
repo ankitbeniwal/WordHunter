@@ -32,7 +32,7 @@ class HighlightPainter {
       ctx.lineTo(endCol * width + width / 2, endRow * height + height / 2);
       ctx.lineCap = "round";
       ctx.lineWidth = width * 0.9;
-      ctx.strokeStyle = isHovered ? "#F57F17" : "#ffeb3b";
+      ctx.strokeStyle = isHovered ? "#1A3260" : "#4590B8";
       ctx.stroke();
     };
 
