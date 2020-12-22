@@ -47,3 +47,5 @@ The wordsearch solver algorithm takes in a puzzle along with a list of words and
 returns a list of matches (word -> list of nodes making up a word).
 
 The result is displayed in an interactive viewer.
+
+<a href="https://www.freepik.com/vectors/logo">Logo vector created by Harryarts - www.freepik.com</a>
